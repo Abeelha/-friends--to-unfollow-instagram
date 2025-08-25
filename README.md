@@ -2,6 +2,10 @@
 
 **A lightweight, fast, and easy-to-use Rust application for analyzing Instagram follower relationships**
 
+## 📥 Download
+
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abeelha/-friends--to-unfollow-instagram/releases/tag/0.1.0)
+
 ## 🎯 Purpose
 
 This tool analyzes your Instagram account data to identify accounts you're following that don't follow you back. Simply download your Instagram data (followers and following JSON files) and let our analyzer do the work.
