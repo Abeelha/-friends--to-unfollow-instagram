@@ -1,6 +1,8 @@
 # 🐝 Instagram Follower Matrix Analyzer
 
 **A lightweight, fast, and easy-to-use Rust application for analyzing Instagram follower relationships**
+<img width="1113" height="626" alt="image" src="https://github.com/user-attachments/assets/d73645be-4bdc-4dfa-bd33-4b30e9b96f51" />
+
 
 ## 📥 Download
 
