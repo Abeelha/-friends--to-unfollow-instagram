@@ -30,7 +30,7 @@ This tool analyzes your Instagram account data to identify accounts you're follo
 <img width="1273" height="746" alt="image" src="https://github.com/user-attachments/assets/b521567e-d5f6-4f37-b04e-48efe56acf66" />
 <img width="595" height="308" alt="image" src="https://github.com/user-attachments/assets/0768e417-474d-422b-a7dc-f4a3b9e6adf3" />
 <img width="574" height="774" alt="image" src="https://github.com/user-attachments/assets/055966a4-c03e-4565-b338-4db7d3ce225b" />
-<img width="590" height="417" alt="image" src="https://github.com/user-attachments/assets/eaec6c46-9604-4121-8b5b-002fa793e5d2" />
+<img width="577" height="407" alt="image" src="https://github.com/user-attachments/assets/bc0b63a5-8a99-46ff-81d6-d86c75665d9a" />
 <img width="586" height="845" alt="image" src="https://github.com/user-attachments/assets/5ed6d317-42b7-48b5-8d4f-19f31b51c652" />
 
 
